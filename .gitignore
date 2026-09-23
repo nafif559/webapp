@@ -1,0 +1,4 @@
+node_modul/
+.env
+.vscode/
+*.log
